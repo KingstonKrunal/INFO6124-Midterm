@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Krunal Dog Pound</string>
+    <string name="total_dogs_in_pound">Total Dogs in Pound:</string>
+    <string name="_0">0</string>
+    <string name="dog_name">Dog Name:</string>
+    <string name="house_trained">House Trained</string>
+    <string name="add_dog_to_pound">ADD DOG TO POUND</string>
+    <string name="go_back_to_main_activity">GO BACK TO MAIN ACTIVITY</string>
+    <string name="dog_list">dog_list</string>
+</resources>
